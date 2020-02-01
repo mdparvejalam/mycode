@@ -1,2 +1,2 @@
-# mycode
-mycode with sublim text editor
+#myCode
+Mycode with sublime text editor.
